@@ -40,21 +40,21 @@ const Navbar = () => {
           </SheetTrigger>
           <SheetContent>
             <div className="flex flex-col p-6 gap-2">
-              <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
-                <button className="shadow-[0_0_0_3px_#000000_inset] px-6 py-2 bg-transparent border border-black dark:border-white dark:text-white text-black rounded-lg font-bold transform hover:-translate-y-1 transition duration-400">
-                  LinkedIn
-                </button>
-              </a>
-              <a href="https://github.com/yourprofile" target="_blank" rel="noopener noreferrer">
-                <button className="shadow-[0_0_0_3px_#000000_inset] px-6 py-2 bg-transparent border border-black dark:border-white dark:text-white text-black rounded-lg font-bold transform hover:-translate-y-1 transition duration-400">
-                  Github
-                </button>
-              </a>
-              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-                <button className="shadow-[0_0_0_3px_#000000_inset] px-6 py-2 bg-transparent border border-black dark:border-white dark:text-white text-black rounded-lg font-bold transform hover:-translate-y-1 transition duration-400">
-                  Resume
-                </button>
-              </a>
+            <a href="https://www.linkedin.com/in/satyamkumr20/" target="_blank" rel="noopener noreferrer">
+            <button className="shadow-[0_0_0_3px_#000000_inset] px-6 py-2 bg-transparent border border-black dark:border-white dark:text-white text-black rounded-lg font-bold transform hover:-translate-y-1 transition duration-400">
+              LinkedIn
+            </button>
+          </a>
+          <a href="https://github.com/SKumr20/" target="_blank" rel="noopener noreferrer">
+            <button className="shadow-[0_0_0_3px_#000000_inset] px-6 py-2 bg-transparent border border-black dark:border-white dark:text-white text-black rounded-lg font-bold transform hover:-translate-y-1 transition duration-400">
+              Github
+            </button>
+          </a>
+          <a href="https://drive.google.com/file/d/108Qgk33IWUxUkq3xi_XTw8vuslPKJ7EI/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <button className="shadow-[0_0_0_3px_#000000_inset] px-6 py-2 bg-transparent border border-black dark:border-white dark:text-white text-black rounded-lg font-bold transform hover:-translate-y-1 transition duration-400">
+              Resume
+            </button>
+          </a>
             </div>
           </SheetContent>
         </Sheet>
